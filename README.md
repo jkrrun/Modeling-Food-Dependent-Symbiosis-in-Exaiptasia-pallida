@@ -18,6 +18,4 @@ rnplots.nb:  and δ plot simulations code
 
 rnplots.jpg:  and δ plot simulations plot
 
-PhasePlane.nb: Phase Plane of model at fitted parameters, including equalibrium. 
-
-Limit.nb: Exploration of the nutreint limit rigimes, especially how they form the dynamics seen in fig. 4 and 5 of the manuscript.
+Supplementary Materials.nb Phase Plane of model at fitted parameters, including equalibrium and Exploration of the nutreint limit rigimes, especially how they form the dynamics seen in fig. 4 and 5 of the manuscript.
