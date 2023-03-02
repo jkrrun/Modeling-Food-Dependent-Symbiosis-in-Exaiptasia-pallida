@@ -6,16 +6,13 @@ Model_Fit.nb: Model set up, fit and amplification plot
 
 Mutualism_Parasitism_Balance.nb: all code related to the delta value and the magnitude of parasitism or mutualism
 
-Boostrap_Run.nb: 1000 bootsrapping runs
+Boostrap_Run.nb: 1000 bootstrapping runs
 
-booterdata.csv: bootsrapping data from Boostrap_run.nb
+booterdata.csv: bootstrapping data from Boostrap_run.nb
 
-Boostrap_Stats.nb: BCA of the boostrapping data collected in Boostrap_run
+Boostrap_Stats.nb: BCA of the bootstrapping data collected in Boostrap_run
 
-"Peng_et_al._supplemental_data_0403_adj.xlsx": Excel file with Peng et al. 2020 data with slight formating adjustments
+"Peng_et_al._supplemental_data_0403_adj.xlsx": Excel file with Peng et al. 2020 data with slight formatting adjustments
 
-rnplots.nb:  and δ plot simulations code
+Supplementary Materials.nb Phase Plane of model at fitted parameters, including equilibrium and Exploration of the nutrient limit regimes, especially how they form the dynamics seen in fig. 4 and 5 of the manuscript.
 
-rnplots.jpg:  and δ plot simulations plot
-
-Supplementary Materials.nb Phase Plane of model at fitted parameters, including equalibrium and Exploration of the nutreint limit rigimes, especially how they form the dynamics seen in fig. 4 and 5 of the manuscript.
