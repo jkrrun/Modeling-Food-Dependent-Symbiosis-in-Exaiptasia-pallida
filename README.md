@@ -1,6 +1,6 @@
 # Modeling-Food-Dependent-Symbiosis-in-Exaiptasia-pallida
 
-Modeling Food Dependent Symbiosis in Exaiptasia pallida Mathematica code
+Modeling Food Dependent Symbiosis in Exaiptasia pallida Mathematica code and data
 
 Model_Fit.nb: Model set up, fit and amplification plot
 
